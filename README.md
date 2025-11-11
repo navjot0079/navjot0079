@@ -7,7 +7,7 @@ I love building things that *work beautifully* — fast UIs, clean APIs, and smo
 
 ### 💫 About Me
 ⚡ Passionate about transforming real-world ideas into performant, reliable digital products  
-🧠 Currently mastering **Next.js**, **TypeScript**, and **Edge Functions** for cutting-edge web experiences  
+🧠 Currently mastering **React.js**, **JavaScript**, and **Reusable Components** for cutting-edge web experiences  
 🧩 Enjoy designing **modular architectures**, implementing **auth systems**, and integrating **real-time features**  
 🎯 Believe that great products are built with **clarity, collaboration, and curiosity**
 
@@ -15,9 +15,8 @@ I love building things that *work beautifully* — fast UIs, clean APIs, and smo
 
 ### 🧰 Tech Arsenal
 **Frontend:** React • Next.js • Tailwind CSS  
-**Backend:** Node.js • Express.js • MongoDB • Prisma  
-**Dev Tools / Cloud:** Docker • Git • AWS • Vercel • Render • Netlify  
-**Extras:** Chart.js • Clerk • Liveblocks • Socket.io • Redis • Appwrite  
+**Backend:** Node.js • Express.js • MongoDB  
+**Dev Tools / Cloud:** Docker • Git • AWS 
 
 ---
 
@@ -30,8 +29,7 @@ I love building things that *work beautifully* — fast UIs, clean APIs, and smo
 ---
 
 ### 🚀 Highlights
-- 🧱 Experienced with **MERN & Next.js stacks** for full-scale production apps  
-- 🌍 Exploring **AI + backend** integrations for smarter user experiences  
+- 🧱 Experienced with **MERN & React.js stacks** for full-scale production apps 
 - 💡 Open-source enthusiast — always eager to learn, share, and contribute  
 - 🧭 Driven by one goal: **build, ship, and scale meaningful software**
 
