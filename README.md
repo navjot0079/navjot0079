@@ -37,25 +37,25 @@ I enjoy working across the complete development cycle — designing responsive i
 
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,mysql&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases & Caching
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
 
-<br/><br/>
+<br/>
 
 ### ☁️ Cloud, DevOps & Developer Tools
 
@@ -131,15 +131,15 @@ I enjoy working across the complete development cycle — designing responsive i
   alt="LeetCode Stats and Submission Heatmap"
 />
 
-<br/><br/>
+<br/>
 
 <b>💻 496 Problems Solved</b>
 
-<br/><br/>
+<br/>
 
 🟢 Easy: 194 &nbsp;&nbsp; 🟡 Medium: 253 &nbsp;&nbsp; 🔴 Hard: 49
 
-<br/><br/>
+<br/>
 
 ⚡ Active Days: 260 &nbsp;&nbsp; 🔥 Max Streak: 38
 </div>
@@ -153,12 +153,6 @@ I enjoy working across the complete development cycle — designing responsive i
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=navjot0079&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
-
----
-
-
-### 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=navjot0079&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
