@@ -8,6 +8,7 @@
 
 </div>
 
+
 ---
 
 ## 🚀 About Me
@@ -25,6 +26,7 @@ I enjoy working across the complete development cycle — designing responsive i
 * 📚 Currently exploring PostgreSQL, Prisma, System Design, and advanced backend architecture
 * 🎯 Goal: Build software that solves real problems and scales reliably
 
+<img src="https://komarev.com/ghpvc/?username=navjot0079&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 ---
 
 ## 🛠️ Tech Stack
@@ -203,8 +205,6 @@ Currently focused on:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-
-<img src="https://komarev.com/ghpvc/?username=navjot0079&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
