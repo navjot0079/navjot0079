@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />](https://readme-typing-svg.demolab.com/demo/?weight=600&size=25&width=700&lines=Full+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Always+Learning+and+Building+%F0%9F%9A%80)
 
 <br/>
 
@@ -65,44 +65,29 @@ I enjoy working across the complete development cycle — designing responsive i
 
 ---
 
-## 🧩 What I Build
-
-```text
-⚡ Scalable REST APIs
-🔐 JWT Authentication & Role-Based Access Control
-🏢 Multi-Tenant SaaS Applications
-📊 Interactive Analytics Dashboards
-💬 Real-Time Chat & Notification Systems
-🏆 Gamification, XP, Streak & Leaderboard Systems
-🗄️ Database-Driven Full Stack Applications
-🐳 Containerized Backend Services
-```
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏢 ScaleNest — Multi-Tenant SaaS Platform
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind CSS • Recharts
+**Tech Stack:** React • Node.js • Express.js • PostgreSQL • Redis • Socket.IO • JWT • Tailwind CSS
 
 * Built workspace management, project tracking, and team collaboration features
 * Implemented JWT authentication and role-based access control
 * Designed tenant-level data isolation for secure workspace data
-* Built REST APIs for projects, tasks, users, and workspace management
-* Created interactive analytics dashboards
+* Added AI-based task priority and deadline-risk prediction.
+* Created analytics dashboards for project and team performance.
 
 ---
 
-### 🎟️ Eventify — Event Management Platform
+### 🤖 ResumeAI — AI Resume Analyzer
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Recharts • Framer Motion
+**Tech Stack:** React • Python • FastAPI • NLP • Gemini API • PostgreSQL • JWT
 
-* Built a full-stack event platform supporting multiple user roles
-* Designed the system to handle **1,000+ registrations**
-* Developed REST APIs for event and registration management
-* Created interactive analytics dashboards
-* Built responsive and animated user interfaces
+* Built an AI-powered resume analyzer with ATS scoring.
+* Implemented NLP-based skill and keyword extraction.
+* Generated AI-powered resume improvement recommendations.
+* Created dashboards for ATS scores, skills, and keyword analysis.
+* Developed skill-gap analysis for targeted job roles.
 
 ---
 
@@ -111,7 +96,6 @@ I enjoy working across the complete development cycle — designing responsive i
 **Tech Stack:** Node.js • Express.js • MongoDB • Socket.IO • Redis • Docker
 
 * Built a fitness mentorship platform connecting trainers and trainees
-* Implemented JWT authentication and role-based authorization
 * Added real-time chat using Socket.IO
 * Used Redis caching for leaderboard performance
 * Containerized backend services using Docker
@@ -155,17 +139,6 @@ I enjoy working across the complete development cycle — designing responsive i
 </div>
 
 ---
-
-## 🧠 Current Learning Journey
-
-```text
-System Design       ████████░░  80%
-Backend Development █████████░  90%
-React & Next.js     ████████░░  80%
-Docker & DevOps     ███████░░░  70%
-PostgreSQL          ███████░░░  70%
-AWS                 ██████░░░░  60%
-```
 
 Currently focused on:
 
